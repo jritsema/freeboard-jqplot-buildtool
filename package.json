@@ -1,0 +1,25 @@
+{
+  "name": "freeboard-jqplot-buildtool",
+  "version": "1.1.0",
+  "description": "A tool that builds a freeboard-jqplot widget package directory into a dashboard.json file that can be loaded by freeboard",
+  "main": "index.js",
+  "bin": {
+    "freeboard-jqplot-buildtool": "index.js"
+  },  
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jritsema/freeboard-jqplot-buildtool.git"
+  },
+  "keywords": [
+    "freeboard",
+    "jqplot",
+    "freeboard-jqplot"
+  ],
+  "author": "jritsema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jritsema/freeboard-jqplot-buildtool/issues"
+  },
+  "homepage": "https://github.com/jritsema/freeboard-jqplot-buildtool"
+}
